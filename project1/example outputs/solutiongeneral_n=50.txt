@@ -1,0 +1,22 @@
+Enter n:
+50
+1 for matrix with uniform diagonals, 2 for general tridiagonal matrix:
+1
+1 for general, 2 for special:
+1
+Enter a(nondiagonal) first, then b(diagonal):
+-1
+2
+1 to test against standard matrix algorithms, anything else to not:
+1
+Running...
+
+warning: solve(): system seems singular (rcond: 7.3041e-20); attempting approx solution
+Normal solver time: 43
+LU solver time: 0
+Custom algorithm CPU time:0
+Relative error for h = 0.0196078: 0.00319775
+Press <RETURN> to close this window...
+
+
+I don't know how solve() works, but I am impressed that for n=50 in particular it thinks it's singular.

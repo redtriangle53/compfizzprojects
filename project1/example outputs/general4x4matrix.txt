@@ -1,0 +1,25 @@
+Enter n:
+4
+1 for matrix with uniform diagonals, 2 for general tridiagonal matrix:
+2
+Enter 3 vector elements for A:
+9
+12
+1
+Enter 4 vector elements for B:
+4
+1
+13
+5
+Enter 3 vector elements for C:
+2
+5
+0
+1 to test against standard matrix algorithms, anything else to not:
+1
+Running...
+Normal solver time: 0
+LU solver time: 0
+Custom algorithm CPU time:0
+Relative error: 2.75104e-16
+Press <RETURN> to close this window...

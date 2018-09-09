@@ -1,0 +1,17 @@
+Enter n:
+100
+1 for matrix with uniform diagonals, 2 for general tridiagonal matrix:
+1
+1 for general, 2 for special:
+2
+Enter a(nondiagonal) first, then b(diagonal):
+-1
+2
+1 to test against standard matrix algorithms, anything else to not:
+1
+Running...
+Normal solver time: 1
+LU solver time: 0
+Custom algorithm CPU time:0
+Relative error for h = 0.00990099: 0.000816513
+Press <RETURN> to close this window...
