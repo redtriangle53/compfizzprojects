@@ -1,0 +1,25 @@
+Testing testing 123..
+Search test passed!
+Orthogonality conserved!
+Normality conserved!
+Jacobi eigenvalue test:
+eigenvalue 0 is correct!
+eigenvalue 1 is correct!
+eigenvalue 2 is correct!
+eigenvalue 3 is correct!
+Bisect eigenvalue test:
+eigenvalue 0 is correct!
+eigenvalue 1 is correct!
+eigenvalue 2 is correct!
+eigenvalue 3 is correct!
+input n:
+200
+1 for buckling beam, 2 for single electron harmosc, 3 for double electron harmosc
+3
+input value for wr:
+0.25
+input value for rhomax:
+30
+Jacobi algorithm time: 10330
+Ground state eigenvalue: 1.24958
+Press <RETURN> to close this window...

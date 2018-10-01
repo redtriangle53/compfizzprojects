@@ -1,0 +1,33 @@
+Testing testing 123..
+Search test passed!
+Orthogonality conserved!
+Normality conserved!
+Jacobi eigenvalue test:
+eigenvalue 0 is correct!
+eigenvalue 1 is correct!
+eigenvalue 2 is correct!
+eigenvalue 3 is correct!
+Bisect eigenvalue test:
+eigenvalue 0 is correct!
+eigenvalue 1 is correct!
+eigenvalue 2 is correct!
+eigenvalue 3 is correct!
+input n:
+10
+1 for buckling beam, 2 for single electron harmosc, 3 for double electron harmosc
+1
+Jacobi eigenvalues:
+   9.8027e+00
+   3.8417e+01
+   8.3524e+01
+   1.4147e+02
+
+Jacobi algorithm time: 0
+Bisect eigenvalues:
+   9.8027e+00
+   3.8417e+01
+   8.3524e+01
+   1.4147e+02
+
+Bisect algorithm time: 1
+Press <RETURN> to close this window...

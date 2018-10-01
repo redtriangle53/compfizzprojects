@@ -1,0 +1,44 @@
+Testing testing 123..
+Search test passed!
+Orthogonality conserved!
+Normality conserved!
+Jacobi eigenvalue test:
+eigenvalue 0 is correct!
+eigenvalue 1 is correct!
+eigenvalue 2 is correct!
+eigenvalue 3 is correct!
+Bisect eigenvalue test:
+eigenvalue 0 is correct!
+eigenvalue 1 is correct!
+eigenvalue 2 is correct!
+eigenvalue 3 is correct!
+input n:
+10
+1 for buckling beam, 2 for single electron harmosc, 3 for double electron harmosc
+2
+Jacobi algorithm time: 0
+Eigenvalues for 3d harmosc potential:
+   7.7061e+00
+   3.0021e+01
+   6.7211e+01
+   1.1928e+02
+   1.8622e+02
+   2.6804e+02
+   3.6473e+02
+   4.7630e+02
+   6.0275e+02
+   7.4407e+02
+Lanczos approximated Eigenvalues:
+   7.7061e+00
+   3.0021e+01
+   6.7211e+01
+   1.1928e+02
+   1.8622e+02
+   2.6804e+02
+   3.6473e+02
+   4.7630e+02
+   6.0275e+02
+   7.4407e+02
+First convergence of eigenvalue after 9 iterations.
+Lanczos algorithm time: 74
+Press <RETURN> to close this window...
