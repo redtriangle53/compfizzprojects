@@ -178,8 +178,7 @@ mat lanczos(mat A){                             //Lanczos' algorithm. Finds an i
 
         for (int i = 0; i < k; i++){            //Checks for convergence of eigenpairs through condition |s_ik b_k| -> 0, in which case it terminates.
             if (abs(eigvec.col(i)(k)*b) < 1e-10){
-                std::cout << eigvec.col(i)(k) << endl;
-                eigval.subvec(0, 9).print("Approximated Eigenvalues:");
+                eigval.subvec(0, 9).print("Lanczos approximated Eigenvalues:");
                 std::cout << "First convergence of eigenvalue after " << k << " iterations.\n";
                 return Q;
             }
@@ -188,7 +187,7 @@ mat lanczos(mat A){                             //Lanczos' algorithm. Finds an i
             T(k, k+1) = b; T(k+1, k) = b;
         }
     }
-    eigval.print("Approximated Eigenvalues:");
+    eigval.print("Lanczos approximated Eigenvalues:");
     return Q;
 }
 
@@ -314,7 +313,7 @@ int main(){ //-------------------------------------------------------MAIN PROGRA
         J /= pow(h, 2);
         vec eig = diagvec(J);
         eig = sort(eig);
-        std::cout << eig.subvec(0, 3) << endl;
+        std::cout << "Jacobi eigenvalues:" << endl << eig.subvec(0, 3) << endl;
         std::cout << "Jacobi algorithm time: " << stop-start << endl;
 
         mat B = A;                              //Bisect block.
@@ -322,7 +321,7 @@ int main(){ //-------------------------------------------------------MAIN PROGRA
         vec bisecteig = bisect(B);
         stop = clock();
         bisecteig /= pow(h, 2);
-        std::cout << bisecteig.subvec(0, 3) << endl;
+        std::cout << "Bisect eigenvalues:" << endl << bisecteig.subvec(0, 3) << endl;
         std::cout << "Bisect algorithm time: " << stop-start << endl;
 
     }
@@ -379,7 +378,7 @@ int main(){ //-------------------------------------------------------MAIN PROGRA
         A /= pow(h, 2);
         std::cout << "Jacobi algorithm time: " << stop-start << endl;
         vec eig = diagvec(A);
-        std::cout << eig(eig.index_min()) << endl;
+        std::cout << "Ground state eigenvalue: " << eig(eig.index_min()) << endl;
     }
 
     return 0;
