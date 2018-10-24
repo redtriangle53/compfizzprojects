@@ -1,0 +1,12 @@
+Select mode: 1 for precession of mercury, 2 for full solar system sim, 3 for benchmarking code.
+1
+Latest perihelion angle(in radians): -4.08274e-05
+Corresponding position:
+   3.0750e-01
+  -1.2554e-05
+
+And distance 0.3075 AU
+Press <RETURN> to close this window...
+
+
+This is the precession of mercury *without* a general relativistic correction.

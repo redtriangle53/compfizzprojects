@@ -1,0 +1,40 @@
+Select mode: 1 for precession of mercury, 2 for full solar system sim, 3 for benchmarking code.
+3
+Step length: 0.01
+Euler maximal relative error: 2.2556
+Euler maximal relative energy deviation: 0.340089
+Euler maximal relative angular momentum deviation: 0.217826
+Verlet maximal relative error: 0.105327
+Verlet maximal relative energy deviation: 0.000118438
+Verlet maximal relative angular momentum deviation: 2.21013e-05
+Step length: 0.001
+Euler maximal relative error: 0.358478
+Euler maximal relative energy deviation: 0.068144
+Euler maximal relative angular momentum deviation: 0.035916
+Verlet maximal relative error: 0.00960846
+Verlet maximal relative energy deviation: 4.14896e-05
+Verlet maximal relative angular momentum deviation: 2.06505e-05
+Step length: 0.0001
+Euler maximal relative error: 0.0377588
+Euler maximal relative energy deviation: 0.00776947
+Euler maximal relative angular momentum deviation: 0.00390752
+Verlet maximal relative error: 0.000942143
+Verlet maximal relative energy deviation: 4.10164e-05
+Verlet maximal relative angular momentum deviation: 2.05015e-05
+Step length: 1e-05
+Euler maximal relative error: 0.00374603
+Euler maximal relative energy deviation: 0.000788164
+Euler maximal relative angular momentum deviation: 0.000394314
+Verlet maximal relative error: 8.58003e-05
+Verlet maximal relative energy deviation: 4.09752e-05
+Verlet maximal relative angular momentum deviation: 2.04866e-05
+Step length: 1e-06
+Euler maximal relative error: 0.000325171
+Euler maximal relative energy deviation: 7.89321e-05
+Euler maximal relative angular momentum deviation: 3.94682e-05
+Verlet maximal relative error: 5.66248e-05
+Verlet maximal relative energy deviation: 4.09705e-05
+Verlet maximal relative angular momentum deviation: 2.04848e-05
+Press <RETURN> to close this window...
+
+DISCLAIMER: This data will not match that in the report, since the acceleration method of the system class has to be modified to treat the sun as static. This is poor implementation and I apologize.
