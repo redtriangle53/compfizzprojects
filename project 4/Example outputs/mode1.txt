@@ -1,0 +1,14 @@
+Energy within tolerance.
+Magnetization within tolerance.
+Mode selection:
+1 for 2x2 comparison with analytical values.
+2 for 20x20 equilibration.
+3 for 20x20 histogram.
+4 for phase transition computations
+1
+Seconds per step: 1.85e-07
+Energy relative error: -0.24996
+Magnetization relative error: 0.24998
+Heat capacity relative error: 0.269967
+Susceptibility relative error: 0.260048
+Press <RETURN> to close this window...

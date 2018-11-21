@@ -1,0 +1,13 @@
+Energy within tolerance.
+Magnetization within tolerance.
+Mode selection:
+1 for 2x2 comparison with analytical values.
+2 for 20x20 equilibration.
+3 for 20x20 histogram.
+4 for phase transition computations
+2
+T = ?
+2
+Average Energy random: -1.73732 Average Energy ordered: -1.74498
+Average Magnetization random: 0.90053 Average Magnetization ordered: 0.911988
+Press <RETURN> to close this window...

@@ -1,0 +1,20 @@
+Energy within tolerance.
+Magnetization within tolerance.
+Mode selection:
+1 for 2x2 comparison with analytical values.
+2 for 20x20 equilibration.
+3 for 20x20 histogram.
+4 for phase transition computations
+3
+T = ?
+1
+8Energy -- Probability:
+  -2.0000e+00   8.6789e-01
+  -1.9800e+00   1.1830e-01
+  -1.9700e+00   4.6300e-03
+  -1.9600e+00   8.2700e-03
+  -1.9500e+00   5.5000e-04
+  -1.9400e+00   3.2000e-04
+  -1.9300e+00   3.0000e-05
+  -1.9000e+00   1.0000e-05
+Press <RETURN> to close this window...

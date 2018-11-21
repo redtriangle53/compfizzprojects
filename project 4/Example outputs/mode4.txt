@@ -1,0 +1,10 @@
+Energy within tolerance.
+Magnetization within tolerance.
+Mode selection:
+1 for 2x2 comparison with analytical values.
+2 for 20x20 equilibration.
+3 for 20x20 histogram.
+4 for phase transition computations
+4
+5.779
+11th member of heat capacity plot: 14.8691Press <RETURN> to close this window...
