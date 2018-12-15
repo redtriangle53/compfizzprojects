@@ -1,0 +1,14 @@
+Time taken: 4.212 s
+Time per step: 3.00857e-07 s
+Test Passed!
+Select mode: 0 for stability, 1 for T1 search, 2 for T2 search, 3 for T2 evaluation
+3
+input omega:
+0.5
+input alpha:
+0.5
+input beta:
+0.5
+Expectation energy: 2.32173
+Energy variance: 0.371497
+Press <RETURN> to close this window...

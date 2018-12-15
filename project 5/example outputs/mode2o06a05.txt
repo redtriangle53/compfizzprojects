@@ -1,0 +1,50 @@
+Time taken: 3.993 s
+Time per step: 2.85214e-07 s
+Test Passed!
+Select mode: 0 for stability, 1 for T1 search, 2 for T2 search, 3 for T2 evaluation
+2
+input omega:
+0.5
+input alpha:
+0.5
+b1 gives    3.0000   2.2734
+
+a1 gives    1.0000   2.0571
+
+b2 gives    0.1500   2.0015
+
+a2 gives    1.0351   2.0007
+
+b3 gives    0.1615   2.0005
+
+a3 gives    1.0230   2.0004
+
+b4 gives    0.1704   2.0002
+
+a4 gives    1.0080   2.0002
+
+b5 gives    0.1987   2.0000
+
+a5 gives    0.9922   2.0000
+
+b6 gives    0.2082   2.0000
+
+a6 gives    0.9938   2.0000
+
+b7 gives    0.2083   2.0000
+
+a7 gives    0.9897   2.0000
+
+b8 gives    0.2082   2.0000
+
+a8 gives    0.9882   2.0000
+
+b9 gives    0.2083   2.0000
+
+a9 gives    0.9892   2.0000
+
+b10 gives    0.2083   2.0000
+
+a10 gives    0.9975   2.0000
+
+Press <RETURN> to close this window...

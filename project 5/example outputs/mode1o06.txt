@@ -1,0 +1,10 @@
+Time taken: 3.988 s
+Time per step: 2.84857e-07 s
+Test Passed!
+Select mode: 0 for stability, 1 for T1 search, 2 for T2 search, 3 for T2 evaluation
+1
+input omega:
+0.6
+   0.8525   2.3937
+
+Press <RETURN> to close this window...
